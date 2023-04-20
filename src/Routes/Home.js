@@ -21,8 +21,8 @@ export function Home() {
             El Barto was here. <span className="text-base not-italic">(This text is styled using tailwindcss)</span>
           </h1>
 
-          <Link to="/page/Turkiye">
-            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-3">Click here to open the wikipedia article</button>
+          <Link to="/page/Random">
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-3">Click here to open a random wikipedia article</button>
           </Link>
 
         </header>

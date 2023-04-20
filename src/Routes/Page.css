@@ -1,0 +1,12 @@
+.articleIntro b{
+    color: green; 
+}
+
+.articleIntro p{
+    margin-bottom: 1rem; 
+}
+
+.mw-empty-elt{
+    padding:0 !important;
+    margin:0 !important;
+}
